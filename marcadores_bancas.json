@@ -1,0 +1,2600 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "popupContent": "RV TECNOLOGIA - BANCA DAS APOSTILAS",
+                "icon": "CLARO",
+                "time": "2025-01-31T00:00:00Z"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -48.3741697488706,
+                    -1.36483076648578
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "popupContent": "RV TECNOLOGIA - BANCA ESPERANÇA",
+                "icon": "CLARO",
+                "time": "2025-01-31T00:00:00Z"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -48.4770073434782,
+                    -1.4616338173913
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "popupContent": "RV TECNOLOGIA - BANCA LAURO SODRÉ",
+                "icon": "CLARO",
+                "time": "2025-01-31T00:00:00Z"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -48.4499051,
+                    -1.42341055
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "popupContent": "RV TECNOLOGIA - BANCA DO AMOR",
+                "icon": "CLARO",
+                "time": "2025-01-31T00:00:00Z"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -48.4659274823391,
+                    -1.44972305522288
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "popupContent": "RV TECNOLOGIA - BANCA DA SHEILA",
+                "icon": "CLARO",
+                "time": "2025-01-31T00:00:00Z"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -48.4877596845796,
+                    -1.45471687575709
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "popupContent": "RV TECNOLOGIA - BANCA DO ANDRÉ",
+                "icon": "CLARO",
+                "time": "2025-01-31T00:00:00Z"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -48.4877596845796,
+                    -1.45471687575709
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "popupContent": "RV TECNOLOGIA - BANCA DA PIZZA",
+                "icon": "CLARO",
+                "time": "2025-01-31T00:00:00Z"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -48.4796029,
+                    -1.4547784
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "popupContent": "RV TECNOLOGIA - REVISTARIA ALVES",
+                "icon": "CLARO",
+                "time": "2025-01-31T00:00:00Z"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -48.4717680817519,
+                    -1.45147212245627
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "popupContent": "RV TECNOLOGIA - BANCA SÃO JERÔNIMO",
+                "icon": "CLARO",
+                "time": "2025-01-31T00:00:00Z"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -48.4826951083178,
+                    -1.44981100025725
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "popupContent": "RV TECNOLOGIA - BANCA DO ROCK",
+                "icon": "CLARO",
+                "time": "2025-01-31T00:00:00Z"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -48.4690150258834,
+                    -1.4497433103936
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "popupContent": "RV TECNOLOGIA - BANCA DA FRANCISCA",
+                "icon": "CLARO",
+                "time": "2025-01-31T00:00:00Z"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -48.4727991798237,
+                    -1.42947872661545
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "popupContent": "RV TECNOLOGIA - BANCA PRESIDENTE VARGAS",
+                "icon": "CLARO",
+                "time": "2025-01-31T00:00:00Z"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -48.4955474250217,
+                    -1.45271883523287
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "popupContent": "RV TECNOLOGIA - BANCA ENASA",
+                "icon": "CLARO",
+                "time": "2025-01-31T00:00:00Z"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -48.4980689420996,
+                    -1.44894877074018
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "popupContent": "RV TECNOLOGIA - BANCA DO JOEL",
+                "icon": "CLARO",
+                "time": "2025-01-31T00:00:00Z"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -48.4953969019327,
+                    -1.45281093951451
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "popupContent": "RV TECNOLOGIA - BANCA DO HÉLIO",
+                "icon": "CLARO",
+                "time": "2025-01-31T00:00:00Z"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -48.4531290485261,
+                    -1.40230626859835
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "popupContent": "RV TECNOLOGIA - REVISTARIA DO BAIANO",
+                "icon": "CLARO",
+                "time": "2025-01-31T00:00:00Z"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -48.4980689420996,
+                    -1.44894877074018
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "popupContent": "RV TECNOLOGIA - BANCA PAES DE CARVALHO",
+                "icon": "CLARO",
+                "time": "2025-01-31T00:00:00Z"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -48.5001820150133,
+                    -1.45568746820092
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "popupContent": "RV TECNOLOGIA - BANCA DA GISELE",
+                "icon": "CLARO",
+                "time": "2025-01-31T00:00:00Z"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -48.4699082126317,
+                    -1.44231536799048
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "popupContent": "RV TECNOLOGIA - BANCA UNIVERSITÁRIA",
+                "icon": "CLARO",
+                "time": "2025-01-31T00:00:00Z"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -48.4616127684415,
+                    -1.46727955250585
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "popupContent": "RV TECNOLOGIA - BANCA BARCELAR",
+                "icon": "CLARO",
+                "time": "2025-01-31T00:00:00Z"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -48.4962622437998,
+                    -1.45529441565883
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "popupContent": "RV TECNOLOGIA - BANCA FÁBIA II",
+                "icon": "CLARO",
+                "time": "2025-01-31T00:00:00Z"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -48.5038323488699,
+                    -1.45549136417975
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "popupContent": "RV TECNOLOGIA - BANCA DO JOVELINO",
+                "icon": "CLARO",
+                "time": "2025-01-31T00:00:00Z"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -48.5010479009595,
+                    -1.45353701167814
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "popupContent": "RV TECNOLOGIA - REVISTARIA BATISTA CAMPOS",
+                "icon": "CLARO",
+                "time": "2025-01-31T00:00:00Z"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -48.4911604924669,
+                    -1.46282049955945
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "popupContent": "RV TECNOLOGIA - BANCA AMAZA CULTURA",
+                "icon": "CLARO",
+                "time": "2025-01-31T00:00:00Z"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -48.4805673236146,
+                    -1.40866887797808
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "popupContent": "RV TECNOLOGIA - BANCA DO LAURO",
+                "icon": "CLARO",
+                "time": "2025-01-31T00:00:00Z"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -48.4633048017821,
+                    -1.44640303200557
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "popupContent": "RV TECNOLOGIA - BANCA HUMAITÁ",
+                "icon": "CLARO",
+                "time": "2025-01-31T00:00:00Z"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -48.4619574102302,
+                    -1.44186058969117
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "popupContent": "RV TECNOLOGIA - BANCA MAURITI",
+                "icon": "CLARO",
+                "time": "2025-01-31T00:00:00Z"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -48.4637389173433,
+                    -1.43378897504121
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "popupContent": "RV TECNOLOGIA - BANCA MODERNA I",
+                "icon": "CLARO",
+                "time": "2025-01-31T00:00:00Z"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -48.4856037,
+                    -1.4554247
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "popupContent": "RV TECNOLOGIA - BANCA CAMPOS",
+                "icon": "CLARO",
+                "time": "2025-01-31T00:00:00Z"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -48.465671924327,
+                    -1.44687395103564
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "popupContent": "REDEFLEX - CHAVEIRO BANCA OLINDA",
+                "icon": "CLARO",
+                "time": "2025-01-31T00:00:00Z"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -60.6836614963816,
+                    2.80283001971733
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "popupContent": "REDEFLEX - LANCHE GUARANÁ NATURAL",
+                "icon": "CLARO",
+                "time": "2025-01-31T00:00:00Z"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -60.686428432944,
+                    2.81573990831917
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "popupContent": "REDEFLEX - BANCA NSª DA CONSOLATA",
+                "icon": "CLARO",
+                "time": "2025-01-31T00:00:00Z"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -60.6712532,
+                    2.82109754999999
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "popupContent": "REDEFLEX - BANCA CULTURAL (BOA VISTA)",
+                "icon": "CLARO",
+                "time": "2025-01-31T00:00:00Z"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -60.6716720117062,
+                    2.8215522482029
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "popupContent": "RV TECNOLOGIA - REVISTARIA ESTRELA",
+                "icon": "CLARO",
+                "time": "2025-01-31T00:00:00Z"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -47.4732331754572,
+                    -5.50968491558224
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "popupContent": "RV TECNOLOGIA - BANCA DO CHICO",
+                "icon": "CLARO",
+                "time": "2025-01-31T00:00:00Z"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -47.4881866972046,
+                    -5.52843999888042
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "popupContent": "REDEFLEX - BANCA DA ROSINHA (P. VARGAS)",
+                "icon": "CLARO",
+                "time": "2025-01-31T00:00:00Z"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -51.0630849695377,
+                    0.03845223323141266
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "popupContent": "REDEFLEX - BANCA DO LUIZ (MACAPÁ)",
+                "icon": "CLARO",
+                "time": "2025-01-31T00:00:00Z"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -51.0630849695377,
+                    0.03845223323141266
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "popupContent": "REDEFLEX - BANCA DO TREM",
+                "icon": "CLARO",
+                "time": "2025-01-31T00:00:00Z"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -51.0583232181915,
+                    0.02812697667291803
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "popupContent": "REDEFLEX - BANCA AS TRÊSZINHAS (ANTIGA ROSINHA DA FAB)",
+                "icon": "CLARO",
+                "time": "2025-01-31T00:00:00Z"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -51.0584028208318,
+                    0.04069669651504006
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "popupContent": "REDEFLEX - BANCA BEIRA RIO",
+                "icon": "CLARO",
+                "time": "2025-01-31T00:00:00Z"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -51.0493544499999,
+                    0.03407985
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "popupContent": "REDEFLEX - BANCA DA CAIXA D´ÁGUA",
+                "icon": "CLARO",
+                "time": "2025-01-31T00:00:00Z"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -51.0745316576233,
+                    0.022306278914669662
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "popupContent": "REDEFLEX - BANCA DO BARÃO",
+                "icon": "CLARO",
+                "time": "2025-01-31T00:00:00Z"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -51.0509783968265,
+                    0.039775950000000004
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "popupContent": "REDEFLEX - BANCA ASSISTENCIA I",
+                "icon": "CLARO",
+                "time": "2025-01-31T00:00:00Z"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -51.0676108063338,
+                    0.034394299647615596
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "popupContent": "REDEFLEX - BANCA ASSISTENCIA II",
+                "icon": "CLARO",
+                "time": "2025-01-31T00:00:00Z"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -51.0516769,
+                    0.02994685
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "popupContent": "REDEFLEX - LEVI LANCHES",
+                "icon": "CLARO",
+                "time": "2025-01-31T00:00:00Z"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -51.055897536307,
+                    0.05054039281263676
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "popupContent": "REDEFLEX - LOOR CELL (SANTANA) ",
+                "icon": "CLARO",
+                "time": "2025-01-31T00:00:00Z"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -51.0858375545552,
+                    0.07073838968318251
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "popupContent": "REDEFLEX - BANCA GUARANY",
+                "icon": "CLARO",
+                "time": "2025-01-31T00:00:00Z"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -60.0255390998011,
+                    -3.13697229644578
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "popupContent": "REDEFLEX - BANCA TIA LÉIA",
+                "icon": "CLARO",
+                "time": "2025-01-31T00:00:00Z"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -60.0255390998011,
+                    -3.13697229644578
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "popupContent": "REDEFLEX - BANCA DONA IZAURA",
+                "icon": "CLARO",
+                "time": "2025-01-31T00:00:00Z"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -60.0207645464551,
+                    -3.11965786217245
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "popupContent": "REDEFLEX - BANCA DE REVISTA JESUS ME DEU",
+                "icon": "CLARO",
+                "time": "2025-01-31T00:00:00Z"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -60.0207645464551,
+                    -3.11965786217245
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "popupContent": "REDEFLEX - BANCA VISÃO",
+                "icon": "CLARO",
+                "time": "2025-01-31T00:00:00Z"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -59.9851157435259,
+                    -3.03207522818461
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "popupContent": "REDEFLEX - BANCA TARUMÃ (ANTIGA DORA)",
+                "icon": "CLARO",
+                "time": "2025-01-31T00:00:00Z"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -60.188291184929,
+                    -2.9565097093693
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "popupContent": "REDEFLEX - BANCA DE REVISTAS E VARIEDADES (ANTIGA NORTENORDESTE)",
+                "icon": "CLARO",
+                "time": "2025-01-31T00:00:00Z"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -60.0063235615711,
+                    -3.11744238053766
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "popupContent": "REDEFLEX - BANCA SÃO JOSÉ",
+                "icon": "CLARO",
+                "time": "2025-01-31T00:00:00Z"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -60.0255390998011,
+                    -3.13697229644578
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "popupContent": "REDEFLEX - BANCA PRAÇA DOM BOSCO",
+                "icon": "CLARO",
+                "time": "2025-01-31T00:00:00Z"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -60.0264106601625,
+                    -3.13294282160591
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "popupContent": "REDEFLEX - BANCA DICO´S",
+                "icon": "CLARO",
+                "time": "2025-01-31T00:00:00Z"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -60.02189605,
+                    -3.13615575
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "popupContent": "REDEFLEX - BANCA DÁ UMA OLHADA",
+                "icon": "CLARO",
+                "time": "2025-01-31T00:00:00Z"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -60.0167559520688,
+                    -3.12718405827157
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "popupContent": "RV TECNOLOGIA - BANCA ACRE",
+                "icon": "CLARO",
+                "time": "2025-01-31T00:00:00Z"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -60.0212948106955,
+                    -3.10517166388922
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "popupContent": "REDEFLEX - BANCA JESSICA VARIEDADES",
+                "icon": "CLARO",
+                "time": "2025-01-31T00:00:00Z"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -48.3620934,
+                    -1.36582045
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "popupContent": "REDEFLEX - BANCA M&A CAPAS",
+                "icon": "CLARO",
+                "time": "2025-01-31T00:00:00Z"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -48.3140019993705,
+                    -1.36474112170681
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "popupContent": "REDEFLEX - BANCA MARCELO SAUDADE",
+                "icon": "CLARO",
+                "time": "2025-01-31T00:00:00Z"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -48.3428121997994,
+                    -1.36217368425027
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "popupContent": "REDEFLEX - BANCA MARCELO SAUDADE II",
+                "icon": "CLARO",
+                "time": "2025-01-31T00:00:00Z"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -48.3145783083045,
+                    -1.36330036806422
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "popupContent": "REDEFLEX - BANCA POINT DOS NATURAIS",
+                "icon": "CLARO",
+                "time": "2025-01-31T00:00:00Z"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -48.3145783083045,
+                    -1.36330036806422
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "popupContent": "REDEFLEX - BANCA DO SAL",
+                "icon": "CLARO",
+                "time": "2025-01-31T00:00:00Z"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -47.3381918945657,
+                    -0.6356143064572943
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "popupContent": "REDEFLEX - BANCA DE JORNAL E CONVENIÊNCIA",
+                "icon": "CLARO",
+                "time": "2025-01-31T00:00:00Z"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -47.3553631831409,
+                    -0.6180872966664681
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "popupContent": "REDEFLEX - BANCA DE REVISTAS DA MATRIZ",
+                "icon": "CLARO",
+                "time": "2025-01-31T00:00:00Z"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -48.1601595710365,
+                    -1.29936265346455
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "popupContent": "REDEFLEX - BANCA DO JUNIOR",
+                "icon": "CLARO",
+                "time": "2025-01-31T00:00:00Z"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -54.7223747691741,
+                    -2.42304446576654
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "popupContent": "RV TECNOLOGIA - BANCA TRAILLER VERMELHO",
+                "icon": "CLARO",
+                "time": "2025-01-31T00:00:00Z"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -44.2471799694093,
+                    -2.53262625618139
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "popupContent": "RV TECNOLOGIA - BANCA SHALOM",
+                "icon": "CLARO",
+                "time": "2025-01-31T00:00:00Z"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -44.2860749138751,
+                    -2.50043014999999
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "popupContent": "RV TECNOLOGIA - BANCA LACERDA",
+                "icon": "CLARO",
+                "time": "2025-01-31T00:00:00Z"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -44.2578427037022,
+                    -2.5444191564107
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "popupContent": "RV TECNOLOGIA - BANCA N.S.A DA CONCEIÇÃO",
+                "icon": "CLARO",
+                "time": "2025-01-31T00:00:00Z"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -44.2862208,
+                    -2.5333616
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "popupContent": "RV TECNOLOGIA - BANCA VERSO & PROSA",
+                "icon": "CLARO",
+                "time": "2025-01-31T00:00:00Z"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -44.2742379255146,
+                    -2.54313944429166
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "popupContent": "RV TECNOLOGIA - BANCA DO FILIPINHO",
+                "icon": "CLARO",
+                "time": "2025-01-31T00:00:00Z"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -44.2702919369367,
+                    -2.54534250300476
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "popupContent": "RV TECNOLOGIA - BANCA BETUSKA",
+                "icon": "CLARO",
+                "time": "2025-01-31T00:00:00Z"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -44.2263045335195,
+                    -2.52520540020392
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "popupContent": "RV TECNOLOGIA - BANCA PONTO CERTO (ANTIGA CELL CONSERT)",
+                "icon": "CLARO",
+                "time": "2025-01-31T00:00:00Z"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -44.1896376,
+                    -2.52225984999999
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "popupContent": "RV TECNOLOGIA - BANCA SOL (ANTIGA PC FONE)",
+                "icon": "CLARO",
+                "time": "2025-01-31T00:00:00Z"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -44.2957773974298,
+                    -2.54487195290719
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "popupContent": "RV TECNOLOGIA - BANCA CHÁCARA BRASIL",
+                "icon": "CLARO",
+                "time": "2025-01-31T00:00:00Z"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -44.2300335,
+                    -2.5063646
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "popupContent": "RV TECNOLOGIA - BANCA ALDAIR ACESSÓRIOS (ANTIGO FAÇANHA ACESSÓRIOS)",
+                "icon": "CLARO",
+                "time": "2025-01-31T00:00:00Z"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -44.2194964507721,
+                    -2.55222312003542
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "popupContent": "RV TECNOLOGIA - ISAAC REVISTARIA",
+                "icon": "CLARO",
+                "time": "2025-01-31T00:00:00Z"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -44.2965803504622,
+                    -2.52951435
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "popupContent": "RV TECNOLOGIA - BANCA JG",
+                "icon": "CLARO",
+                "time": "2025-01-31T00:00:00Z"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -44.2890354669275,
+                    -2.50210585241379
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "popupContent": "RV TECNOLOGIA - BANCA DE REVISTA JUNIOR",
+                "icon": "CLARO",
+                "time": "2025-01-31T00:00:00Z"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -44.2334923146576,
+                    -2.50778845961422
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "popupContent": "RV TECNOLOGIA - BANCA DA LEITURA",
+                "icon": "CLARO",
+                "time": "2025-01-31T00:00:00Z"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -44.2598955499999,
+                    -2.55354025
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "popupContent": "RV TECNOLOGIA - BANCA SÃO LUIZ",
+                "icon": "CLARO",
+                "time": "2025-01-31T00:00:00Z"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -50.1339316699459,
+                    -1.660964425
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "popupContent": "RV TECNOLOGIA - BANCA AS COIZA TUDO",
+                "icon": "TIM",
+                "time": "2025-01-31T00:00:00Z"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -48.4789958722222,
+                    -1.43864048703703
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "popupContent": "RV TECNOLOGIA - BANCA OLIMPUS",
+                "icon": "TIM",
+                "time": "2025-01-31T00:00:00Z"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -48.4786119692307,
+                    -1.44260943076923
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "popupContent": "RV TECNOLOGIA - BANCA CIFEMA",
+                "icon": "TIM",
+                "time": "2025-01-31T00:00:00Z"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -48.4658304,
+                    -1.44687824705882
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "popupContent": "RV TECNOLOGIA - BANCA DA LENE",
+                "icon": "TIM",
+                "time": "2025-01-31T00:00:00Z"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -48.466921379613,
+                    -1.44912709836438
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "popupContent": "RV TECNOLOGIA - BANCA DISTRIBUIDORA DO TEDY",
+                "icon": "TIM",
+                "time": "2025-01-31T00:00:00Z"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -48.4334511362716,
+                    -1.40558966025775
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "popupContent": "RV TECNOLOGIA - FRANÇA LIVRARIA",
+                "icon": "TIM",
+                "time": "2025-01-31T00:00:00Z"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -48.4866907176077,
+                    -1.2984574439743
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "popupContent": "RV TECNOLOGIA - BANCA DO LIVRO ESPÍRITA",
+                "icon": "TIM",
+                "time": "2025-01-31T00:00:00Z"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -48.4790972299438,
+                    -1.45206480316642
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "popupContent": "RV TECNOLOGIA - BANCA PRESENTE DE DEUS",
+                "icon": "TIM",
+                "time": "2025-01-31T00:00:00Z"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -48.4704190725269,
+                    -1.45168053166649
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "popupContent": "RV TECNOLOGIA - BANCA D&M",
+                "icon": "TIM",
+                "time": "2025-01-31T00:00:00Z"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -48.4795972873447,
+                    -1.44886710326935
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "popupContent": "RV TECNOLOGIA - BANCA SALES",
+                "icon": "TIM",
+                "time": "2025-01-31T00:00:00Z"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -48.4679423151084,
+                    -1.44845441909356
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "popupContent": "RV TECNOLOGIA - BANCA DO HALMEIDA I",
+                "icon": "TIM",
+                "time": "2025-01-31T00:00:00Z"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -48.4538686380751,
+                    -1.43540215475691
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "popupContent": "RV TECNOLOGIA - BANCA SÃO BRÁS",
+                "icon": "TIM",
+                "time": "2025-01-31T00:00:00Z"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -48.4691776680851,
+                    -1.45205402978723
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "popupContent": "RV TECNOLOGIA - BANCA DO JOSÉ LEÃO",
+                "icon": "TIM",
+                "time": "2025-01-31T00:00:00Z"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -49.0140226394991,
+                    -1.85248855367239
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "popupContent": "RV TECNOLOGIA - BANCA DA PAZ (FUTURA BANCA DA FÁBIA I)",
+                "icon": "TIM",
+                "time": "2025-01-31T00:00:00Z"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -48.4727292088824,
+                    -1.42937426480591
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "popupContent": "RV TECNOLOGIA - BANCA DO VICTOR",
+                "icon": "TIM",
+                "time": "2025-01-31T00:00:00Z"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -48.4982090867515,
+                    -1.44912064726142
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "popupContent": "RV TECNOLOGIA - BANCA GOSPEL VALE DA BENÇÃO",
+                "icon": "TIM",
+                "time": "2025-01-31T00:00:00Z"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -48.496614972972,
+                    -1.4510981
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "popupContent": "RV TECNOLOGIA - REVISTARIA MARABÁ",
+                "icon": "TIM",
+                "time": "2025-01-31T00:00:00Z"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -48.4971859068721,
+                    -1.45040832333889
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "popupContent": "RV TECNOLOGIA - BANCA SEBO & CIA",
+                "icon": "TIM",
+                "time": "2025-01-31T00:00:00Z"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -48.4856230625953,
+                    -1.43143770719833
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "popupContent": "RV TECNOLOGIA - BANCA SANTO ANTÔNIO",
+                "icon": "TIM",
+                "time": "2025-01-31T00:00:00Z"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -48.4911065290708,
+                    -1.46046909974127
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "popupContent": "RV TECNOLOGIA - BANCA OLIVEIRA BELO",
+                "icon": "TIM",
+                "time": "2025-01-31T00:00:00Z"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -48.4830409998965,
+                    -1.44164574344131
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "popupContent": "RV TECNOLOGIA - BANCA CASTELO",
+                "icon": "TIM",
+                "time": "2025-01-31T00:00:00Z"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -48.4707345429359,
+                    -1.45307055370866
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "popupContent": "RV TECNOLOGIA - BANCA DO CID",
+                "icon": "TIM",
+                "time": "2025-01-31T00:00:00Z"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -48.4608786812712,
+                    -1.44274499413766
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "popupContent": "RV TECNOLOGIA - BANCA DA SANTANA",
+                "icon": "TIM",
+                "time": "2025-01-31T00:00:00Z"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -48.4911499505659,
+                    -1.44804221248777
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "popupContent": "REDEFLEX - BANCA DA BELA",
+                "icon": "TIM",
+                "time": "2025-01-31T00:00:00Z"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -48.3655837005047,
+                    -1.36598533828492
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "popupContent": "REDEFLEX - BANCA START PRINT",
+                "icon": "TIM",
+                "time": "2025-01-31T00:00:00Z"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -48.3655837005047,
+                    -1.36598533828492
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "popupContent": "RV TECNOLOGIA - BANCA ALVES (ANTIGA CARAPAJO) - P.EUTIQUIO",
+                "icon": "VIVO",
+                "time": "2025-01-31T00:00:00Z"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -48.4971829510237,
+                    -1.4556835108038
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "popupContent": "RV TECNOLOGIA - BANCA CARAPAJO I (PEDREIRA)",
+                "icon": "VIVO",
+                "time": "2025-01-31T00:00:00Z"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -48.4716256037139,
+                    -1.42688736176513
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "popupContent": "RV TECNOLOGIA - BANCA DA 15",
+                "icon": "VIVO",
+                "time": "2025-01-31T00:00:00Z"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -48.5017454474077,
+                    -1.45203567610529
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "popupContent": "RV TECNOLOGIA - BANCA DE REVISTA RESGATE",
+                "icon": "VIVO",
+                "time": "2025-01-31T00:00:00Z"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -48.4487208206683,
+                    -1.34978079715893
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "popupContent": "RV TECNOLOGIA - BANCA DO LUIZ",
+                "icon": "VIVO",
+                "time": "2025-01-31T00:00:00Z"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -48.46892825,
+                    -1.45390425
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "popupContent": "RV TECNOLOGIA - BANCA DO LY",
+                "icon": "VIVO",
+                "time": "2025-01-31T00:00:00Z"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -48.469322,
+                    -1.4243932
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "popupContent": "RV TECNOLOGIA - BANCA DO REGI",
+                "icon": "VIVO",
+                "time": "2025-01-31T00:00:00Z"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -48.5006469366455,
+                    -1.45111055
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "popupContent": "RV TECNOLOGIA - BANCA DO SERGINHO",
+                "icon": "VIVO",
+                "time": "2025-01-31T00:00:00Z"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -48.4991237317873,
+                    -1.46581609838071
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "popupContent": "RV TECNOLOGIA - BANCA DOS CABANOS",
+                "icon": "VIVO",
+                "time": "2025-01-31T00:00:00Z"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -48.4881897735216,
+                    -1.46243972802431
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "popupContent": "RV TECNOLOGIA - BANCA LEIA MAIS",
+                "icon": "VIVO",
+                "time": "2025-01-31T00:00:00Z"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -48.4562917358186,
+                    -1.43865343432089
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "popupContent": "RV TECNOLOGIA - BANCA LOMAS I",
+                "icon": "VIVO",
+                "time": "2025-01-31T00:00:00Z"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -48.4581813198677,
+                    -1.43558440409519
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "popupContent": "RV TECNOLOGIA - BANCA LOMAS II",
+                "icon": "VIVO",
+                "time": "2025-01-31T00:00:00Z"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -48.4551311804423,
+                    -1.43405124298417
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "popupContent": "RV TECNOLOGIA - BANCA MOBTECH (ANTIGO FREI DANIEL)",
+                "icon": "VIVO",
+                "time": "2025-01-31T00:00:00Z"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -48.4575723200341,
+                    -1.46000111823017
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "popupContent": "RV TECNOLOGIA - BANCA OLYMPIA",
+                "icon": "VIVO",
+                "time": "2025-01-31T00:00:00Z"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -48.4883455832706,
+                    -1.44617504917295
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "popupContent": "RV TECNOLOGIA - BANCA OLYMPUS",
+                "icon": "VIVO",
+                "time": "2025-01-31T00:00:00Z"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -48.4889036039406,
+                    -1.43605929415933
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "popupContent": "RV TECNOLOGIA - BANCA PORTUGAL",
+                "icon": "VIVO",
+                "time": "2025-01-31T00:00:00Z"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -48.5028355408871,
+                    -1.45390083475028
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "popupContent": "RV TECNOLOGIA - BANCA PRAÇA DA BANDEIRA",
+                "icon": "VIVO",
+                "time": "2025-01-31T00:00:00Z"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -48.5002969663632,
+                    -1.45339246742032
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "popupContent": "RV TECNOLOGIA - BANCA SÃO RAIMUNDO",
+                "icon": "VIVO",
+                "time": "2025-01-31T00:00:00Z"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -48.4864574089571,
+                    -1.43480882873206
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "popupContent": "RV TECNOLOGIA - BIG BANCA",
+                "icon": "VIVO",
+                "time": "2025-01-31T00:00:00Z"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -48.4533738,
+                    -1.402115
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "popupContent": "RV TECNOLOGIA - REVISTARIA ISRAEL",
+                "icon": "VIVO",
+                "time": "2025-01-31T00:00:00Z"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -48.4457594319852,
+                    -1.40778534605696
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "popupContent": "RV TECNOLOGIA - REVISTARIA VICTOR HUGO",
+                "icon": "VIVO",
+                "time": "2025-01-31T00:00:00Z"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -48.5007389422324,
+                    -1.45302644319946
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "popupContent": "REDEFLEX - BANCA CANAÃ",
+                "icon": "VIVO",
+                "time": "2025-01-31T00:00:00Z"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -60.6952634758115,
+                    2.82843289889444
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "popupContent": "RV TECNOLOGIA - BANCA DO PEDÃO",
+                "icon": "VIVO",
+                "time": "2025-01-31T00:00:00Z"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -47.4809869929539,
+                    -5.52882184114281
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "popupContent": "REDEFLEX - BANCA DA RISA",
+                "icon": "VIVO",
+                "time": "2025-01-31T00:00:00Z"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -51.0584028208318,
+                    0.04069669651504006
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "popupContent": "REDEFLEX - BANCA DO PAULO",
+                "icon": "VIVO",
+                "time": "2025-01-31T00:00:00Z"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -51.1779645237602,
+                    -0.03013672423966588
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "popupContent": "REDEFLEX - BANCA FAP",
+                "icon": "VIVO",
+                "time": "2025-01-31T00:00:00Z"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -51.0584028208318,
+                    0.04069669651504006
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "popupContent": "REDEFLEX - BANCA WS VARIEDADES (DO TERMINAL)",
+                "icon": "VIVO",
+                "time": "2025-01-31T00:00:00Z"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -51.05714235,
+                    0.06496435
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "popupContent": "REDEFLEX - BANCA ABRANTES",
+                "icon": "VIVO",
+                "time": "2025-01-31T00:00:00Z"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -60.0207645464551,
+                    -3.11965786217245
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "popupContent": "REDEFLEX - BANCA AILTON (ANTIGA BANCA DO CALEB)",
+                "icon": "VIVO",
+                "time": "2025-01-31T00:00:00Z"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -60.0251350856674,
+                    -3.12802741387548
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "popupContent": "REDEFLEX - BANCA DA JANETE",
+                "icon": "VIVO",
+                "time": "2025-01-31T00:00:00Z"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -60.0236282127468,
+                    -3.11006426443913
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "popupContent": "REDEFLEX - BANCA DA SORTE",
+                "icon": "VIVO",
+                "time": "2025-01-31T00:00:00Z"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -60.0262788965633,
+                    -3.13579716246813
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "popupContent": "REDEFLEX - BANCA DE REVISTA NOVA REPÚBLICA",
+                "icon": "VIVO",
+                "time": "2025-01-31T00:00:00Z"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -59.9631233615505,
+                    -3.10595366393094
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "popupContent": "REDEFLEX - BANCA DO JAPIIM 4351",
+                "icon": "VIVO",
+                "time": "2025-01-31T00:00:00Z"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -59.982827408115,
+                    -3.11558386495005
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "popupContent": "REDEFLEX - BANCA DO KAKAL",
+                "icon": "VIVO",
+                "time": "2025-01-31T00:00:00Z"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -60.0176488322034,
+                    -3.13656112617264
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "popupContent": "REDEFLEX - BANCA DO ROBERTO",
+                "icon": "VIVO",
+                "time": "2025-01-31T00:00:00Z"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -60.0207645464551,
+                    -3.11965786217245
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "popupContent": "REDEFLEX - BANCA DOS AMIGOS",
+                "icon": "VIVO",
+                "time": "2025-01-31T00:00:00Z"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -60.0266193346059,
+                    -3.13368519404475
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "popupContent": "REDEFLEX - BANCA E CONVENIÊNCIA CONVÉM",
+                "icon": "VIVO",
+                "time": "2025-01-31T00:00:00Z"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -60.02182195,
+                    -3.12995855
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "popupContent": "REDEFLEX - BANCA IPIRANGA",
+                "icon": "VIVO",
+                "time": "2025-01-31T00:00:00Z"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -60.0063235615711,
+                    -3.11744238053766
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "popupContent": "REDEFLEX - BANCA KEKEL",
+                "icon": "VIVO",
+                "time": "2025-01-31T00:00:00Z"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -60.0207645464551,
+                    -3.11965786217245
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "popupContent": "REDEFLEX - BANCA MODELO",
+                "icon": "VIVO",
+                "time": "2025-01-31T00:00:00Z"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -60.00564326235,
+                    -3.14175344430732
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "popupContent": "REDEFLEX - BANCA NUTRI FIT SUPRIMENTOS",
+                "icon": "VIVO",
+                "time": "2025-01-31T00:00:00Z"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -60.02182195,
+                    -3.12995855
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "popupContent": "REDEFLEX - BANCA RR ACESSÓRIOS",
+                "icon": "VIVO",
+                "time": "2025-01-31T00:00:00Z"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -60.0266114337036,
+                    -3.12883338557213
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "popupContent": "REDEFLEX - BANCA SAPUCAIA",
+                "icon": "VIVO",
+                "time": "2025-01-31T00:00:00Z"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -60.0222155663037,
+                    -3.13491685317606
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "popupContent": "REDEFLEX - BANCA SIMÕES",
+                "icon": "VIVO",
+                "time": "2025-01-31T00:00:00Z"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -60.0247776758428,
+                    -3.13506627960463
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "popupContent": "REDEFLEX - BANCA VENCER",
+                "icon": "VIVO",
+                "time": "2025-01-31T00:00:00Z"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -60.030438022774,
+                    -3.11549172337635
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "popupContent": "REDEFLEX - BANCA VENCER II",
+                "icon": "VIVO",
+                "time": "2025-01-31T00:00:00Z"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -60.0187116765718,
+                    -3.12607373712469
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "popupContent": "REDEFLEX - BANCA VIERA ALVES",
+                "icon": "VIVO",
+                "time": "2025-01-31T00:00:00Z"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -60.0236282127468,
+                    -3.11006426443913
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "popupContent": "REDEFLEX - BANCA WG",
+                "icon": "VIVO",
+                "time": "2025-01-31T00:00:00Z"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -59.9905521758429,
+                    -3.11785092482223
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "popupContent": "REDEFLEX - BANCA DOIS IRMÃOS",
+                "icon": "VIVO",
+                "time": "2025-01-31T00:00:00Z"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -59.9851157435259,
+                    -3.03207522818461
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "popupContent": "REDEFLEX - BANCA MIXX",
+                "icon": "VIVO",
+                "time": "2025-01-31T00:00:00Z"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -49.0866696046561,
+                    -5.3411047318521
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "popupContent": "REDEFLEX - BANCA DO PEDRO",
+                "icon": "VIVO",
+                "time": "2025-01-31T00:00:00Z"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -48.3431464737356,
+                    -1.3656585249818
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "popupContent": "RV TECNOLOGIA - BANCA DA CULTURA (ANTIGA EVANILDE)",
+                "icon": "VIVO",
+                "time": "2025-01-31T00:00:00Z"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -44.2101315,
+                    -2.5403678
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "popupContent": "RV TECNOLOGIA - BANCA DA MARY",
+                "icon": "VIVO",
+                "time": "2025-01-31T00:00:00Z"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -44.2500980561695,
+                    -2.53104111059685
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "popupContent": "RV TECNOLOGIA - BANCA DA RODOVIÁRIA",
+                "icon": "VIVO",
+                "time": "2025-01-31T00:00:00Z"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -44.2430015,
+                    -2.57171229999999
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "popupContent": "RV TECNOLOGIA - BANCA DE REVISTA CULTURAL",
+                "icon": "VIVO",
+                "time": "2025-01-31T00:00:00Z"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -44.2872525893408,
+                    -2.48825217925131
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "popupContent": "RV TECNOLOGIA - BANCA FREE CENTER",
+                "icon": "VIVO",
+                "time": "2025-01-31T00:00:00Z"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -44.2291042364063,
+                    -2.49445177489673
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "popupContent": "RV TECNOLOGIA - BANCA LEITURA E INTEGRAÇÃO",
+                "icon": "VIVO",
+                "time": "2025-01-31T00:00:00Z"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -44.2896074260679,
+                    -2.54138721303397
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "popupContent": "RV TECNOLOGIA - BANCA ODARA",
+                "icon": "VIVO",
+                "time": "2025-01-31T00:00:00Z"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -44.2911633645788,
+                    -2.5253609555807
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "popupContent": "RV TECNOLOGIA - BANCA PRAIA GRANDE CAFÉ EXPRESSO CULTURAL",
+                "icon": "VIVO",
+                "time": "2025-01-31T00:00:00Z"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -44.3070409,
+                    -2.5314432
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "popupContent": "RV TECNOLOGIA - BANCA SEBO E GIBITECA",
+                "icon": "VIVO",
+                "time": "2025-01-31T00:00:00Z"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -44.2938932509997,
+                    -2.5295958
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "popupContent": "RV TECNOLOGIA - BANCA STAND VIP",
+                "icon": "VIVO",
+                "time": "2025-01-31T00:00:00Z"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -44.2189335980486,
+                    -2.54082286912053
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "popupContent": "RV TECNOLOGIA - BANCA VAMU LANCHAR",
+                "icon": "VIVO",
+                "time": "2025-01-31T00:00:00Z"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -44.3040111557327,
+                    -2.50721908891051
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "popupContent": "RV TECNOLOGIA - PONTO DE CULTURA JK",
+                "icon": "VIVO",
+                "time": "2025-01-31T00:00:00Z"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -44.2745293592498,
+                    -2.542688
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "popupContent": "RV TECNOLOGIA - REVISTARIA ANIL",
+                "icon": "VIVO",
+                "time": "2025-01-31T00:00:00Z"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -44.2405285470118,
+                    -2.54899761481377
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "popupContent": "REDEFLEX - BANCA SÃO LUIS",
+                "icon": "VIVO",
+                "time": "2025-01-31T00:00:00Z"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -48.697428579469,
+                    -1.51520025937813
+                ]
+            }
+        }
+    ]
+}
